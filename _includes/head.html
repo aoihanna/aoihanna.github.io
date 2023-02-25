@@ -1,0 +1,29 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic|Source+Code+Pro:400,700" type="text/css">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
+<!-- add chinese font hei -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" type="text/css">
+
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl }}/favicon.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ site.baseurl }}/apple-touch-icon.png">
+
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+</head>
