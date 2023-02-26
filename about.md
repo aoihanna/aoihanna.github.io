@@ -3,6 +3,12 @@ layout: page
 title: The Soul selects her own Society
 ---
 
+<div class="iconwrapper">
+<p>
+  <i class="fa fa-quote-left fa-3x"></i>
+</p>  
+</div>
+
 <p class="message" align=middle>
   The soul selects her own society,     <br>
   Then shuts the door;  <br>
@@ -16,9 +22,8 @@ title: The Soul selects her own Society
   Choose one;  <br>
   Then close the valves of her attention    <br>
   Like stone.   <br>
-  —— Emily Dickinson, 1830—1886<br>
 <br>
-《灵魂选择自己的伴侣》   <br>
+
  灵魂选择自己的伴侣  <br>
  接着把门关紧   <br>
  那无比神圣的决心   <br>
@@ -33,5 +38,6 @@ title: The Soul selects her own Society
  仅取一瓢   <br>
  然后心再无旁念  <br>
  磐石入定   <br>
- ——尤克强译   <br>
+
+ Emily Dickinson, 尤克强译版   <br>
 </p>
