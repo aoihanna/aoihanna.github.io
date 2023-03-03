@@ -1,5 +1,1 @@
-
-
-## License
-
-MIT. See [LICENSE](https://github.com/nicoelayda/celeste/blob/master/LICENSE).
+Theme by https://github.com/nicoelayda/celeste
