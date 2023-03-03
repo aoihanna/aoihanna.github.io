@@ -10,18 +10,26 @@ title: The Soul selects her own Society
 </div>
 
 <p class="message" align=middle>
-  The soul selects her own society,     <br>
-  Then shuts the door;  <br>
-  On her divine majority  <br>
-  Obtrude no more.  <br>
-  Unmoved, she notes the chariot's pausing  <br>
-  At her low gate;  <br>
-  Unmoved,an emperor is kneeling  <br>
-  Upon her mat.   <br>
-  I've known her from an ample nation<br>
-  Choose one;  <br>
-  Then close the valves of her attention    <br>
-  Like stone.   <br>
+The Soul selects her own Society — <br>
+Then — shuts the Door — <br>
+To her divine Majority — <br>
+Present no more — <br>
+
+
+Unmoved — she notes the Chariots — pausing — <br>
+At her low Gate — <br>
+Unmoved — an Emperor be kneeling <br>
+Upon her Mat — <br>
+
+
+I've known her — from an ample nation — <br>
+Choose One — <br>
+Then — close the Valves of her attention — <br>
+Like Stone — <br>
+c. 1862 <br>
+
+Emily Dickinson - 1830-1886  <br>
+
 <br>
 
  灵魂选择自己的伴侣  <br>
@@ -39,5 +47,5 @@ title: The Soul selects her own Society
  然后心再无旁念  <br>
  磐石入定   <br>
 
- Emily Dickinson, 尤克强译版   <br>
+ （尤克强译）   <br>
 </p>
